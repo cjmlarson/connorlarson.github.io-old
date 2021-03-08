@@ -28,7 +28,7 @@ twitter_username: clars0n
 github_username:  connorlarson
 
 # Build settings
-theme: minima
+theme: cayman
 plugins:
   - jekyll-feed
 

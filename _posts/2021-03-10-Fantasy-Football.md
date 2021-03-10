@@ -7,4 +7,4 @@ categories: jekyll update
 
 # Optimal Betting Strategies in Fantasy Football
 
-Open the paper [here](google.com)
+Download the paper [here](Term Paper Larson.pdf).

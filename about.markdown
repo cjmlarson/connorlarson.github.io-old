@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![This is me](/assets/headshot.jpg)
+<img src="/assets/headshot.jpg" width="200">
+
 
 Hi, my name is Connor!

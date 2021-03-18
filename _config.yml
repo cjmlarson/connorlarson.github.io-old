@@ -31,6 +31,14 @@ github_username:  connorlarson
 theme: Minima
 plugins:
   - jekyll-feed
+  
+minima:
+    skin: dark
+    social_links:
+        linkedin: connorlarson1
+        instagram: clarson8759
+        
+show_excerpts: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.

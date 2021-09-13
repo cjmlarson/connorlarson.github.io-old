@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Optimal Battery Placement in Energy Grids"
+title:  "Battery Placement in Energy Grids"
 date:   2021-05-10 11:59:59 -0500
 categories: jekyll update
 ---

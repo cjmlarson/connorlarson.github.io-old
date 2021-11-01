@@ -7,4 +7,4 @@ categories: jekyll update
 
 Supplemental Assets for Senior Thesis. Map of suitable public-use airports in the continental United States:
 
-{% include foobar.html %}
+{% include map.html %}
